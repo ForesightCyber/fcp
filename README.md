@@ -7,7 +7,7 @@ The information gathered and processed by the platform is held within the databa
 The platform was developed primarily for our internal Foresight Cyber team: however, it is now available for everybody.
 
 ## License
-We are using Elastic v2 License. See [license](LICENSE.txt).
+We are using Elastic v2 License. See [license](LICENSE.md).
 
 ## Installation and confifuration
 You can use docker or native version. 
